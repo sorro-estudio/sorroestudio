@@ -1,0 +1,10 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# imagens em tamanho cheio, guardadas fora do site
+_originais
+
+# a página de teste antiga
+_backup_pagina_antiga
